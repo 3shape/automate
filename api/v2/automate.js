@@ -260,7 +260,7 @@ async function upload(headers) {
         lowerJawScanName: lowerJawScanName,
         designPreferences: {
             material: "Zirconia", // Needs to more or less match a material on the platform
-            //turnaroundSeconds,
+            //turnaroundTimeSeconds,
             //occlusionDistance,
             //contactsDistance,
             //removeUndercuts,
